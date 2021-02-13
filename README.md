@@ -1,8 +1,9 @@
 # PlantSeedlingClassification
-### Objective
 
+### Objective
 The objective is to create a 12-class classifier capable of determining plant’s species from the various stages of grown plant seedlings images.
-###Details:
+
+### Details:
 * Dataset consists of images of plant species with 12 classes.
 * The distribution of the images is difficult to distinguish when visualized using t-Distributed Stochastic Neighbor Embedding (t-SNE).
 * Imbalanced data – Treated using Synthetic Minority Oversampling Technique (SMOTE) to balance the dataset. 
